@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Lettuce Code. Code Quality for JS
 
 You can use the [editor on GitHub](https://github.com/denishasanenko/code-quality/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
